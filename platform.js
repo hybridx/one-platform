@@ -11,4 +11,5 @@ fs.readdir( dir, (err, list) => {
         path.dirname( service );
     })
 } );
+
 console.log( 'Copying .env.example to .env for the services: Completed' );
