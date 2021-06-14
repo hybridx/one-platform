@@ -21,7 +21,7 @@ An integrated application hosting platform which allows you to host your SPAs. I
 ## Installation
 
 ### Install node_modules for all the packages
-#### PS: The below script also copies `.env.example` to `.env` for all the services
+#### PS: The below script also copies `.env.example` to `.env` for all the services.
 ```sh
 npm install
 ```
