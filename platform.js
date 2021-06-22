@@ -13,3 +13,4 @@ fs.readdir( dir, (err, list) => {
 } );
 
 console.log( 'Copying .env.example to .env for the services: Completed' );
+
